@@ -1,32 +1,22 @@
-# Task Update Simplifier
+# Task Update Simplifier (Mac)
 
 ## Overview
-**Task Update Simplifier** is a lightweight macOS application designed to streamline task management for IT professionals. It enables you to quickly generate, view, and save detailed task entries, including platform details, key issues, and proposed solutions.
+
+Task Update Simplifier is a macOS application written in Swift, designed to streamline the process of structuring and managing task updates. Whether you're working with Kanban, Agile, or any other project management methodology, this app helps you generate well-organised comments and maintain a local log on your device.
+
+![Task Update Simplifier](https://github.com/simon-im-security/Task-Update-Simplifier/blob/main/image.png?raw=true)
 
 ## Features
-- **Task Management**: Create new tasks or load existing ones with ease.
-- **Comment Generation**: Instantly generate and display detailed task comments.
-- **Auto-Save & Load**: Automatically saves tasks with the option to remember user details for future sessions.
-- **Customizable Output**: Save task entries as text files named based on task details.
-- **User-Friendly Interface**: Simple and intuitive interface with easy-to-access buttons.
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/task-update-simplifier.git
-    ```
-2. Open the project in Xcode.
-3. Build and run the app on macOS.
+- **Structured Comments:** Generate and structure task updates quickly, ensuring consistency and clarity.
+- **Task Logging:** Keep a local log of all task entries on your device, making it easy to track progress and updates.
+- **Swift-Based:** Developed using Swift for optimal performance on macOS.
+- **Mac Only:** Optimised for macOS, providing a seamless experience for Apple users.
 
-## Usage
-- **New Task**: Click "New Task" to start a fresh task entry.
-- **Load Task**: Load a previously saved task file.
-- **Display Comment**: Generate and display task comments.
-- **Save Task Entry**: Save your task entry to a text file.
-- **Open Folder**: Quickly access the folder where task files are saved.
+## Download
 
-## Contribution
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+You can download the latest version of Task Update Simplifier from the [Releases](https://github.com/simon-im-security/Task-Update-Simplifier/releases) section as a ZIP file. Please note that the app is not signed with a developer certificate.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## Platform
+
+- **macOS** only
